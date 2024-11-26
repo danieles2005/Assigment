@@ -40,4 +40,4 @@ if __name__ == "__main__":
     # Procesar y devolver resultados
     result = bitwise_operations(numbers, threshold)
     print(json.dumps(result))
-
+#comments for the changes#
